@@ -1,0 +1,25 @@
+{
+    "members": [
+      {
+        "firstName": "Muhammad",
+        "lastName": "Ganjar",
+        "gender": "male",
+        "age": 20,
+        "nim": "2311104001"
+      },
+      {
+        "firstName": "Fajar",
+        "lastName": "sadboy",
+        "gender": "male",
+        "age": 20,
+        "nim": "2311104002"
+      },
+      {
+        "firstName": "Muhammad",
+        "lastName": "Prabowo",
+        "gender": "male",
+        "age": 20,
+        "nim": "2311104003"
+      }
+    ]
+  }
