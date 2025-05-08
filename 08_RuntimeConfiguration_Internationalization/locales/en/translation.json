@@ -1,0 +1,6 @@
+{
+    "greeting": "Hello {{name}}!",
+    "intro": "Welcome to our application."
+  }
+
+// This JSON file contains the English translations for the keys "greeting" and "intro". 

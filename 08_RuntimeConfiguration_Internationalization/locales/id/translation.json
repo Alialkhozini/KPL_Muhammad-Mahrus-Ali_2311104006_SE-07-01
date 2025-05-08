@@ -1,0 +1,6 @@
+{
+    "greeting": "Halo {{name}}!",
+    "intro": "Selamat datang di aplikasi kami."
+  }
+  
+// This JSON file contains the Indonesian translations for the keys "greeting" and "intro".
