@@ -1,4 +1,4 @@
-import { FPB, KPK, Turunan, Integral } from './matematikaLibraries/index.js';
+import { FPB, KPK, Turunan, Integral } from './mathematikLibraries/index.js';
 
 console.log("FPB dari 60 dan 45:", FPB(60, 45));
 console.log("KPK dari 12 dan 8:", KPK(12, 8));     
